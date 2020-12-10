@@ -14,3 +14,5 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 just do something
+
+2020 git.training
